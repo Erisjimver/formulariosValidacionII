@@ -91,3 +91,11 @@ form .indent, #submit {
   margin-left: 0;
 }
 
+#form_registro label.error{
+	font-size: 0.8em;
+	color: #F00;
+	font-weight: bold;
+	display: block;
+	margin-left: 215px;
+}
+
